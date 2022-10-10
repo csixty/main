@@ -69,5 +69,6 @@ kramdown:
   footnote_nr       : 1
   show_warnings     : false
 
-  #themes
+  #misc
   theme             : midnight
+  title             : Test
