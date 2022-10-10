@@ -9,7 +9,7 @@ But I'm gunna give it my best shot
 ## Things to Be Done
 
 - [x] Wirte this
-- [ ] Create a pages blog thingy
+- [x] Create a pages blog thingy
 - [ ] Code something **useful**
 
 ## How To Contact Me
